@@ -1,0 +1,26 @@
+MVC->Model-View-Controller
+-------------------------
+
+Model:
+-----
+ a place to store all your business logic that deals with the actual 
+data.
+
+View:
+----
+ a place to store all your design logic, like HTML, and interpolating 
+data values.
+
+Controller:
+-----------
+ a place to store all the code that allows the application to 
+work (i.e. handles an incoming request, gets the data from the model, give 
+it to the view, renders the view, outputs it to the web server)
+
+
+
+MVC is way to codding.is very good while doning teamwork.think that way.you working
+as a team if you not follow mvc pattern .you will design a view,in same page you 
+implement logic and communicate with model .so you can not work as team .cause while working
+you can't implemet logic part before getting design part same to other team member
+so here is mvc that will help you working as team ,workign separetly.
